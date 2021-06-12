@@ -4,6 +4,6 @@ Calculator on PySide2
 Install libraries:
 Open terminal or command line and run:
 <br>
-<p>  </p> pip3 install -r req.txt
+&nbsp;pip3 install -r req.txt
 <br>
-  *Run command with ```sudo -H``` on ```*nix```-like OS
+&nbsp;*Run command with ```sudo -H``` on ```*nix```-like OS
